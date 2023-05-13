@@ -11,7 +11,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1212,
@@ -24,7 +25,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "royal blue"
     },
     {
       "id": 1213,
@@ -37,7 +39,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New Color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ivory white"
     },
     {
       "id": 1214,
@@ -50,7 +53,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1216,
@@ -63,7 +67,8 @@
       "price": 99,
       "discount": 60,
       "addon": "Tyrwhitt icon",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1217,
@@ -76,7 +81,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1218,
@@ -89,7 +95,8 @@
       "price": 119,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1219,
@@ -102,7 +109,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "french blue"
     },
     {
       "id": 1220,
@@ -115,7 +123,8 @@
       "price": 99,
       "discount": 60,
       "addon": "Tyrwhitt icon",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1222,
@@ -128,7 +137,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1223,
@@ -141,7 +151,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "lilac purple"
     },
     {
       "id": 1224,
@@ -154,7 +165,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1225,
@@ -167,7 +179,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1226,
@@ -180,7 +193,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cobalt blue"
     },
     {
       "id": 1227,
@@ -193,7 +207,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1228,
@@ -206,7 +221,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1229,
@@ -219,7 +235,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ivory white"
     },
     {
       "id": 1231,
@@ -232,7 +249,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1232,
@@ -245,7 +263,8 @@
       "price": 119,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "navy"
     },
     {
       "id": 1233,
@@ -258,7 +277,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1234,
@@ -271,7 +291,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1235,
@@ -284,7 +305,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1237,
@@ -297,7 +319,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1238,
@@ -310,7 +333,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "indigo blue"
     },
     {
       "id": 1239,
@@ -323,7 +347,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1240,
@@ -336,7 +361,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "light pink"
     },
     {
       "id": 1241,
@@ -349,7 +375,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "light green"
     },
     {
       "id": 1242,
@@ -362,7 +389,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1243,
@@ -375,7 +403,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1244,
@@ -388,7 +417,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "royal blue & white"
     },
     {
       "id": 1245,
@@ -401,7 +431,8 @@
       "price": 99,
       "discount": 60,
       "addon": "Tyrwhitt icon",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1246,
@@ -414,7 +445,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "french blue"
     },
     {
       "id": 1247,
@@ -427,7 +459,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1248,
@@ -440,7 +473,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1249,
@@ -453,7 +487,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ivory"
     },
     {
       "id": 1250,
@@ -466,7 +501,8 @@
       "price": 109,
       "discount": 60,
       "addon": "Tyrwhitt icon",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1251,
@@ -479,7 +515,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cobalt blue"
     },
     {
       "id": 1252,
@@ -492,7 +529,8 @@
       "price": 109,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "indigo blue"
     },
     {
       "id": 1253,
@@ -505,7 +543,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1254,
@@ -518,7 +557,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "light blue"
     },
     {
       "id": 1255,
@@ -531,7 +571,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1256,
@@ -544,7 +585,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1257,
@@ -557,7 +599,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1258,
@@ -570,7 +613,8 @@
       "price": 109,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "steel blue"
     },
     {
       "id": 1259,
@@ -583,7 +627,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "royal blue"
     },
     {
       "id": 1260,
@@ -596,7 +641,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1261,
@@ -609,7 +655,8 @@
       "price": 109,
       "discount": 60,
       "addon": "New",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "french blue"
     },
     {
       "id": 1262,
@@ -622,7 +669,8 @@
       "price": 119,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ocean blue"
     },
     {
       "id": 1263,
@@ -635,7 +683,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "petrol blue"
     },
     {
       "id": 1264,
@@ -648,7 +697,8 @@
       "price": 109,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "ivory"
     },
     {
       "id": 1265,
@@ -661,7 +711,8 @@
       "price": 149,
       "discount": 119,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1266,
@@ -674,7 +725,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     },
     {
       "id": 1267,
@@ -687,7 +739,8 @@
       "price": 109,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "royal blue"
     },
     {
       "id": 1268,
@@ -700,7 +753,8 @@
       "price": 109,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "peach"
     },
     {
       "id": 1269,
@@ -713,7 +767,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "white"
     },
     {
       "id": 1270,
@@ -726,7 +781,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cobalt blue"
     },
     {
       "id": 1271,
@@ -739,7 +795,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "indigo blue"
     },
     {
       "id": 1272,
@@ -752,7 +809,8 @@
       "price": 99,
       "discount": 60,
       "addon": "",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "sky blue"
     },
     {
       "id": 1273,
@@ -765,7 +823,8 @@
       "price": 119,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "light blue"
     },
     {
       "id": 1274,
@@ -778,7 +837,8 @@
       "price": 99,
       "discount": 60,
       "addon": "New color",
-      "category": "shirt"
+      "category": "shirt",
+      "colors": "cornflower blue"
     }
   ],
   "shoe":[
